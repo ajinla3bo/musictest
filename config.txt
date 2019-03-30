@@ -1,6 +1,6 @@
 token=NTYxNTMzODIyMzgyODk5MjAw.XJ9nVg.xYHgNsPsFg2-RgnePkzCHgM4DKM
 owner=473837190145900575 
 prefix=+
-game=test by ajinla3bo
+game=
 stayinchannel=true
 songinstatus=true
